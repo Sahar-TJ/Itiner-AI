@@ -1,4 +1,4 @@
-# Itiner-AI
+# Itiner-AI — A Multi-Agent Travel Planner with LangGraph
 Multi-agent travel orchestration powered by MCP for intelligent, end-to-end itinerary generation.
 
 ## Why this project?
