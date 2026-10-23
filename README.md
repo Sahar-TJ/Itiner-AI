@@ -8,7 +8,7 @@ Planning a trip usually means jumping between multiple websites, tools, and spre
 - a flight-search agent,
 - a hotel-research agent,
 - an itinerary-planning agent, 
-- a final response agent,
+- a final response agent
 
 all coordinated through a LangGraph workflow.
 
